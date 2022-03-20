@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WizardSustine
 - 👀 I’m would like to learn and add development experiences
-- 🌱 I’m currently learning Java, HTML, Ruby, Excel (VBA) and Javascript.
+- 🌱 I’m currently learning Java, Full Stack Web, Excel (VBA) and Senior Software Developer.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me . . . we'll get to that later.
 
