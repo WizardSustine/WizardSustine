@@ -1,10 +1,10 @@
 ## Greetings, I'm Juan Gabriel
-> ⚡ Fun fact: I started coding in 1998 (8yo), mainly modifying .bat files for games using Notepad or CMD. By 2001 (11yo), my brother was learning web design with Adobe Dreamweaver, Fireworks, and Flash. So I took Flash, stole a Squashing mosquitoes sample game, and modified its vectors and graphics to create a teacher in a classroom squashing flying paper balls. I exported it to HTML so my teachers could play it. Since then I've been writing code sporadically when the need arises, regardless of the language.
-- 🔭 I'm currently making apps on Android Studio with JAVA and SQL, for my own personal purposes.
+> ⚡ Fun fact: I started coding in 1998 (8yo), mainly modifying .bat files for games using Notepad or CMD. By 2001 (11yo), my brother was learning web design with Adobe Dreamweaver, Fireworks, and Flash. So I took Flash, stole a Squashing mosquitoes sample game, and modified its vectors and graphics to create a "teacher in a classroom squashing flying paper balls". I had exported it to HTML so that my teachers could play it at the time. Since then, I've been writing code sporadically when the need arises, regardless of the language.
 - 🌱 Since 2018, I've been focusing my efforts on web development, and JAVA development caught my attention.
+- 🔭 I'm currently making apps on Android Studio with JAVA and SQL, for my own personal purposes.
 - 💬 My work experience where focused on analyzing needs and resources, organizing tasks, and dealing with clients, providers, architects, engineers, and lawyers. Also, reading architects drawings and calculating.
-- 🤔 Identify needs for enhance our daily work and offering solutions was it my own initiative.
-- :chart_with_upwards_trend: Now I've chosen to work on offering smart solutions. 
+> 🤔 Identify needs for enhance our daily work and offering SOLUTIONS was it my own initiative, and they always worked.
+- :chart_with_upwards_trend: Now I've chosen to work on offering smart solutions. At the very least, writing code makes me happy.
 <!--
 **WizardSustine/WizardSustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
