@@ -7,7 +7,9 @@
 - :chart_with_upwards_trend: Now I've chosen to work on offering smart solutions. At the very least, writing code makes me happy.
 
 ### If you search for something deeper:
+> I'm a people person. I'm happily in love with Marina and we're engaged. I'm a very good cook so I do the cooking in our relationship.
 > My hobbies are reading Graph theory, minimax algorithm, game theory, and I hope to develop an algorithm for one of my games but i haven't find the time for it.
+> Also, I've been scheduling my monthly goals, taxes, jobs, and social commitments in Excel spreadsheets since 2020 (find it quite useful). I used to have a gym sheet, but now I just workout.
 <!--
 **WizardSustine/WizardSustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
