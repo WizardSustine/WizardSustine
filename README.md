@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Greetings, I'm Juan Gabriel
+> ⚡ Fun fact: I start coding in 1998, mainly modifying .bat files for games using Notepad or CMD. By 2001, my brother was learning web design with Adobe Dreamweaver, Fireworks, and Flash. So I took Flash, stole a Squashing mosquitoes sample game, and modified its vectors and graphics to create a teacher in a classroom squashing flying paper balls. I exported it to HTML so my teachers could play it. Since then I've been writing code sporadically when the need arises, regardless of the language.
+- 🌱 I’m currently learning
 <!--
 **WizardSustine/WizardSustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
