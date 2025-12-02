@@ -5,6 +5,9 @@
 - 💬 My work experience where focused on analyzing needs and resources, organizing tasks, and dealing with clients, providers, architects, engineers, and lawyers. Also, reading architects drawings and calculating.
 > 🤔 Identify the other needs (coding needs) for enhance our daily work and offering SOLUTIONS was it my own initiative, and they always brought amazing results.
 - :chart_with_upwards_trend: Now I've chosen to work on offering smart solutions. At the very least, writing code makes me happy.
+
+### If you search for something deeper:
+> My hobbies are reading Graph theory, minimax algorithm, game theory, and I hope to develop an algorithm for one of my games but i haven't find the time for it.
 <!--
 **WizardSustine/WizardSustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
