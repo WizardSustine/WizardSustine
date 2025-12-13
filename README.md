@@ -1,15 +1,8 @@
 ## Greetings, I'm Juan Gabriel
-> ⚡ Fun fact: I started coding in 1998 (8yo), mainly modifying .bat files for games using Notepad or CMD. By 2001 (11yo), my brother was learning web design with Adobe Dreamweaver, Fireworks, and Flash. So I took Flash, stole a Squashing mosquitoes sample game, and modified its vectors and graphics to create a "teacher in a classroom squashing flying paper balls". I had exported it to HTML so that my teachers could play it at the time. Since then, I've been writing code sporadically when the need arises, regardless of the language.
-- 🌱 Since 2018, I've been focusing my efforts on web development (HTML, CSS, JS, ANGULAR...), and JAVA development caught my attention.
-- 🔭 I'm currently making apps on Android Studio with JAVA and SQL, for my own personal purposes.
-- 💬 My work experience where focused on analyzing needs and resources, organizing tasks, and dealing with clients, providers, architects, engineers, and lawyers. Also, reading architects drawings and calculating.
-> 🤔 Identify the other needs (coding needs) for enhance our daily work and offering SOLUTIONS was it my own initiative, and they always brought amazing results.
-- :chart_with_upwards_trend: Now I've chosen to work on offering smart solutions. At the very least, writing code makes me happy.
-
-### If you search for something deeper:
-> I'm a people person. I'm happily in love with Marina and we're engaged. I'm a very good cook so I do the cooking in our relationship.
-> My hobbies are reading Graph theory, minimax algorithm, game theory, and I hope to develop an algorithm for one of my games but i haven't find the time for it.
-> Also, I've been scheduling my monthly goals, taxes, jobs, and social commitments in Excel spreadsheets since 2020 (find it quite useful). I used to have a gym sheet, but now I just workout.
+> ⚡ Coding since 1998 (8yo). Back then, modifying .bat files for games using Notepad or CMD. By 2001 (11yo), I took a Squashing mosquitoes sample game on Adobe Flash, and modified its vectors and graphics to create a "teacher in a classroom squashing flying paper balls". Since then, I've been writing code sporadically.
+- 🌱 Coming up on 2018, I had been focusing my efforts on web development (HTML, CSS, JS, ANGULAR, SPRINGBOOT).
+- In 2022, I had begun a 3 years higher education studies in software development, while pursuing a certification in Full Stack Web Development.
+- Later in 2023, I obtained a certification in Intermediate Java Development by a University as a next stage of the Full Stack certification program from my previous year.
 <!--
 **WizardSustine/WizardSustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
