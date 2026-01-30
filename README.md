@@ -1,19 +1,17 @@
-## Greetings, I'm Juan Gabriel
-> ⚡ Coding since 1998 (8yo). Back then, modifying .bat files for games using Notepad or CMD. By 2001 (11yo), I took a Squashing mosquitoes sample game on Adobe Flash, and modified its vectors and graphics to create a "teacher in a classroom squashing flying paper balls". Since then, I've been writing code sporadically.
-- 🌱 Coming up on 2018, I had been focusing my efforts on web development (HTML, CSS, JS, ANGULAR, SPRINGBOOT).
-- In 2022, I had begun a 3 years higher education studies in software development, while pursuing a certification in Full Stack Web Development.
-- Later in 2023, I obtained a certification in Intermediate Java Development by a University as a next stage of the Full Stack certification program from my previous year.
-<!--
-**WizardSustine/WizardSustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hola, soy Juan
+Soy desarrollador de software con foco en Java y Spring Boot, actualmente en transición profesional desde el ámbito de la investigación y el análisis de datos hacia el desarrollo de aplicaciones. 
+### 💻 Tecnologías
+- Java · Spring Boot · SQL
+- Angular · HTML · CSS
+- Git · GitHub · APIs REST 
+### 🧠 Background diferencial
+Mi experiencia previa en investigación y análisis forense me dio una base sólida en:
+- Pensamiento analítico y resolución de problemas complejos
+- Trabajo con datos sensibles y estructuras de información
+- Documentación clara y comunicación técnica
+### 🚀 Objetivo
+Seguir creciendo como desarrollador backend / full stack, participar en grandes proyectos y aportar una mirada analítica fuerte orientada a la calidad y la seguridad del software.
+### 📫 Contacto
+LinkedIn: juanbustamante-260440210 <br/>
+Email: bustamante.juan1990@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
